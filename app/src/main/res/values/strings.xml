@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">StatePersistApp</string>
+    <string-array name="roles_array">
+        <item>کاربر عادی</item>
+        <item>مدیر</item>
+        <item> Important</item>
+    </string-array>
+</resources>
